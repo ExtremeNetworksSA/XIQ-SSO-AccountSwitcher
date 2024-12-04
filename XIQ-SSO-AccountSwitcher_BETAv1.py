@@ -281,9 +281,10 @@ def main():
                     - By the time this feature goes GA, there may be a newer guide available.
                     - ALL USERS must login using their new SSO access.  The system will create their local accounts marked SSO.
                 - Run script and choose Option 1 to export all accounts from VIQ#1 where SSO is configured
-                - Verify the contents of the export in "{filename}" found in the current directory
+                  - You will be prompted for credentials
+                - Verify the contents of the export in "{filename}" found in the current directory which will also be printed to the screen
                 - When ready, run script again to import accounts into VIQ#2+ using Option 2
-                - Verify the resutls in the output "[VIQ-Name].xlsx"
+                  - You will be prompted for credentials
                 - Repeat Option 2 for all additional VIQs the user needs access to
                 - Test by having an SSO user login and verify the Switch ExtremeCloud IQ works as expected
                 *****************************************************************************************
