@@ -1,4 +1,4 @@
-# XIQ Account User Export to XLSX
+# XIQ SSO Account Switcher
 
 Video Guide Coming Soon...
 
