@@ -1,4 +1,7 @@
 # XIQ Account User Export to XLSX
+
+Video Guide Coming Soon...
+
 ## Purpose
 ExtremeCloud IQ (XIQ) supports local and external account access to access multiple VIQs.  This script applies if you're an organization that uses multiple VIQs and wish to use the new Self Service SSO feature in XIQ so all users can access them.  You will configure Self Service SSO feature in your first VIQ#1 by linking your IDP.  Today, do not configure the same IDP in multiple VIQs.  Each user that will be using SSO to access XIQ will have to login so their local account is created and will be identified by an SSO icon in the UI.
 
