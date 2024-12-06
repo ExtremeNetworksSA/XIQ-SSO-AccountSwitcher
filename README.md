@@ -26,7 +26,7 @@ The primary purpose is to gather SSO account info since the username is auto gen
 7. Test by having an SSO user login and verify the Switch ExtremeCloud IQ works as expected
 
 ## Actions & Requirements
-Install the required modules and generate an API Token to run script without user prompts.  If you need assistance setting up your computing environment, see this guide: https://github.com/ExtremeNetworksSA/API_Getting_Started
+Install the required modules.  No need to generate an API token since this will prompt you to input XIQ credentials.  If you need assistance setting up your computing environment, see this guide: https://github.com/ExtremeNetworksSA/API_Getting_Started
 
 ### Copy Required Files
 You must copy from Github and place these files into the same folder:  `XIQ-ExportAccountsToXLSX_v#.py` & `requirements.txt` & `XIQ-AccountExport.xlsx`
