@@ -20,10 +20,10 @@ The primary purpose is to gather SSO account info since the username is auto gen
   - Run script and choose Option 1 to export all accounts from VIQ#1 where SSO is configured
   - You will be prompted for credentials (must be a local administrator account)
   - Verify the contents of the export in `XIQ-AccountExport.xlsx` found in the current directory which will also be printed to the screen
-5. When ready, run script again to import accounts into VIQ#2+ using Option 2
+6. When ready, run script again to import accounts into VIQ#2+ using Option 2
   - You will be prompted for credentials (must be a local administrator account)
-6. Repeat Option 2 for all additional VIQs the user needs access to
-7. Test by having an SSO user login and verify the Switch ExtremeCloud IQ works as expected
+7. Repeat Option 2 for all additional VIQs the user needs access to
+8. Test by having an SSO user login and verify the Switch ExtremeCloud IQ works as expected
 
 ## Actions & Requirements
 Install the required modules.  No need to generate an API token since this will prompt you to input XIQ credentials.  If you need assistance setting up your computing environment, see this guide: https://github.com/ExtremeNetworksSA/API_Getting_Started
